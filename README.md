@@ -1,4 +1,4 @@
-
+In this project, I contributed to data preprocessing, proposed the model design, conducted baseline comparison experiments, co-authored the paper, and participated in the rebuttal. Below are the details of the paper.
   
 # Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series (Neurips 2023)  
 
