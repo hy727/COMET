@@ -1,7 +1,7 @@
 ## Code sample description: 
 During my research internship at the University of North Carolina at Charlotte, I worked on this project. I contributed to data preprocessing, proposed the model design, performed baseline comparison experiments, co-authored the paper, and participated in the rebuttal. Below are the paper's details.
 
-## Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series (Neurips 2023)  
+### Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series (Neurips 2023)  
 
 #### Authors: 
 #### [Yihe Wang](https://webpages.charlotte.edu/ywang145/)(ywang145@uncc.edu), [Yu Han]()(hanyu21@mails.ucas.ac.cn)
