@@ -1,4 +1,6 @@
-# Code sample description: In this project, I contributed to data preprocessing, proposed the model design, conducted baseline comparison experiments, co-authored the paper, and participated in the rebuttal. Below are the details of the paper.  
+## Code sample description: 
+During my research internship at the University of North Carolina at Charlotte, I worked on this project. I contributed to data preprocessing, proposed the model design, performed baseline comparison experiments, co-authored the paper, and participated in the rebuttal. Below are the paper's details.
+
 # Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series (Neurips 2023)  
 
 #### Authors: 
